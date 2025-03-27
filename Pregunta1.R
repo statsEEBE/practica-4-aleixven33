@@ -22,4 +22,4 @@ hist(simul)
 mean(simul) #promedio
 #valor esperado
 1/25
-adw
+ad

@@ -7,4 +7,4 @@ simul <- rexp(100, 1/10000)
 mean(simul)
 median(simul)
 var(simul)
-as
+asda
